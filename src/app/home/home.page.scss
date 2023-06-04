@@ -1,0 +1,66 @@
+/* Background color for the toolbar */
+ion-toolbar {
+  background-color: #ff6f69;
+}
+
+/* Text color for the toolbar title */
+ion-title {
+  color: #ffffff;
+}
+
+/* Background color for the content area */
+ion-content {
+  background-color: #f4f4f4;
+}
+
+/* Background color for the input fields */
+ion-input {
+  background-color: #ffffff;
+}
+
+/* Text color for the input labels */
+ion-label {
+  color: #333333;
+}
+
+/* Background color for the Post Data button */
+/* Background color for the Post Data button */
+ion-button:nth-child(1) {
+  background-color: #ff6f69;
+}
+
+/* Hover color for the Post Data button */
+ion-button:nth-child(1):hover {
+  background-color: #ff4f42;
+}
+
+/* Background color for the Fetch Data button */
+ion-button:nth-child(2) {
+  background-color: #62d2a2;
+}
+
+/* Hover color for the Fetch Data button */
+ion-button:nth-child(2):hover {
+  background-color: #45bf8e;
+}
+
+/* Text color for the button labels */
+ion-button ion-label {
+  color: #ffffff;
+}
+
+
+/* Text color for the button labels */
+ion-button ion-label {
+  color: #ffffff;
+}
+
+/* Background color for the list items */
+ion-item {
+  background-color: #ffffff;
+}
+
+/* Text color for the list item labels */
+ion-item ion-label {
+  color: #333333;
+}
